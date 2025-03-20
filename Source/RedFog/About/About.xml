@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<!-- Must contain a dot; usually <author>.<modname> -->
+	<packageId>sharkgrammer.RedFog</packageId>
+	<name>Red Fog</name>
+
+	<!-- Game versions this mod supports. More on game versions later. -->
+	<supportedVersions
+		<li>1.5</li>
+	</supportedVersions>
+</ModMetaData>
+
